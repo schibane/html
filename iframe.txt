@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<title>Mon site internet</title>
+<link rel="stylesheet" href="./css/styles.css">
+<!-- <style>
+div{
+border:2px solid red;
+margin-top:20px;
+background-color:lightblue;
+color:black;
+padding:20px;
+}
+div h2{
+font-size:1.25rem;
+}
+div h1{
+margin-top:0;
+text-decoration:underline;
+} 
+</style> -->
+</head>
+<body style="background-color:pink;">
+
+ 
+
+<div>
+<h2>9.3.1 Parent</h2>
+<!-- a href="https://www.w3schools.com/" target="_parent">Visit W3Schools!</a -->
+</div>
+
+ 
+
+</body>
+</html>

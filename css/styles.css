@@ -1,0 +1,14 @@
+div{
+border:2px solid red;
+margin-top:20px;
+background-color:lightblue;
+color:black;
+padding:20px;
+}
+div h2{
+font-size:1.25rem;
+}
+div h1{
+margin-top:0;
+text-decoration:underline;
+}
