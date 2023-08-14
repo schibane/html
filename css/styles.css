@@ -1,9 +1,23 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
 div {
   border: 2px solid red;
   margin-top: 20px;
   background-color: lightblue;
   color: black;
   padding: 20px;
+}
+
+.ballon {
+  text-align: center;
+  padding: 0;
+}
+
+.ballon img {
+  /* width: 308px;
+  height: 344px; */
 }
 
 div h2 {
@@ -15,10 +29,30 @@ div h1 {
   text-decoration: underline;
 }
 
-body {
-  background-color: pink;
-}
-
 h4 {
   font-size: 80px;
 }
+
+/* p.blue {
+  color: blue;
+}
+
+p.verdana {
+  font-family: verdana;
+}
+
+p.big-text {
+  font-size: 180%;
+}
+
+p.center {
+  text-align: center;
+} */
+
+p.common-style {
+  color: green;
+  font-family: verdana;
+  font-size: 180%;
+  text-align: right;
+} /*
+style="text-align: center"*/
